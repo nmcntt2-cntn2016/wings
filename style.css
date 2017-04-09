@@ -49,7 +49,7 @@ span.x4:before, i.x4:before
 
 header .container-fluid
 {
-    background-image: url('https://www.scripps.org/sparkle-assets/images/hi_res_ximed_1300_x_800.jpg');
+    background-image: url('http://i.imgur.com/DQGRMtD.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -90,13 +90,13 @@ header .container-fluid
 .jumbotron table,
 .jumbotron small
 {
-    color: #000000;
+    color: #FFFFFF;
 	text-shadow: 2px 2px #FFFFFF;
 }
 
 .jumbotron p
 {
-    color: #000000;
+    color: #FFFFFF;
     margin-bottom: 5%;
 }
 
